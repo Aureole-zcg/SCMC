@@ -1,2 +1,2 @@
 # SCMC
-Single-Chip  Microcomputer
+Single-Chip  Microcomputer🧩
